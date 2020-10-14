@@ -1,2 +1,2 @@
-This is a Chat Application that I created for my school.
+This is a Chat Application that I created for my school.<br>
 Subject for this project was Thread and Network Programming.
